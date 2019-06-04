@@ -10,3 +10,5 @@ There is also the iPhone XS Max
 
 There is also the Huawei P30 Pro a major competitor against Apple and Samsung
 ![Image Huawei P30 Pro](https://cdn.vox-cdn.com/thumbor/bEJiXRblOfbXF_gidhiykhyQFN4=/0x0:2040x1360/1920x0/filters:focal(0x0:2040x1360):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/15986649/huawei_p30pro_vladsavov19_7.jpg)
+A fan Favorite of mine, is the one plus 7 pro, It has an all screen display and is about $300 cheaper than the ones I've mentioned before
+[Image of oneplus 7 pro](https://cdn.pocket-lint.com/r/s/660x/assets/images/148005-phones-review-oneplus-7-pro-review-device-image1-doq3v75wuy.jpg?v1)
