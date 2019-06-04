@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-### Jekyll Themes
+## Welcome to Philmore's modern technology page
+### Maintained and created by Philmore Jeon
 
 There are many lineups in current phone lines, for example the Samsung Galaxy S10 5G model
 ## *(keep in mind I am listing all of the flagships of major companies that mass produce phones)*
