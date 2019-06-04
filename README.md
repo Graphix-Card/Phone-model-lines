@@ -1,37 +1,11 @@
 ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Graphix-Card/Phone-model-lines/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Jekyll Themes
 
-There are many lineups in current 
+There are many lineups in current phone lines for example the Samsung Galaxy S10 5G model
+![Image of a Samsung Galaxy S10 5G model] 
+(https://cdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s10-5g-2.jpg)
 
-~WHY AM I SO BAD~ *How can I get better*
+There is also the iPhone XS Max
+##(keep in mind I am listing all of the flagships of major companies that mass produce phones)
 
-Although this website is incomplete but of course I am still learning how to do this
+There is also the Huawei P30 Pro
